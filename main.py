@@ -9,7 +9,7 @@ import logging
 
 app = FastAPI()
 
-# Configurar logging
+# Configurar logging OK
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
