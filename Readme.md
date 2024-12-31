@@ -14,6 +14,7 @@ Uso
 Docker
 Para executar a API usando Docker:
 
+
 bash
 Copiar
 
