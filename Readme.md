@@ -1,5 +1,5 @@
-Audio Converter API
-Uma API robusta para conversão de arquivos de áudio entre diferentes formatos, utilizando FFmpeg.
+# Audio Converter API
+## Uma API robusta para conversão de arquivos de áudio entre diferentes formatos, utilizando FFmpeg.
 
 Formatos Suportados
 Entrada
@@ -64,22 +64,6 @@ bash
 Copiar
 
 make build
-Versionamento
-O projeto segue Semantic Versioning.
 
-Para criar uma nova versão:
-
-Atualize o código conforme necessário.
-Execute make bump-version e insira a nova versão.
-Atualize o CHANGELOG.md com as alterações.
-Execute make all para construir, taguear e publicar a nova versão.
-Contribuindo
-Contribuições são bem-vindas! Por favor, siga estes passos:
-
-Fork o repositório
-Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
-Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-Push para a branch (git push origin feature/AmazingFeature)
-Abra um Pull Request
 Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
